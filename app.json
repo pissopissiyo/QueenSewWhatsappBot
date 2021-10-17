@@ -3,7 +3,7 @@
     "description": "SewQueen",
     "logo": "https://i.ibb.co/JkjKGTy/temp-user-profile1621662133773.jpg",
     "keywords": ["whatsapp", "userbot", "sew", "sewqueen", "bot", "api", "ai"],
-    "repository": "",
+    "repository": "https://github.com/pissopissiyo/QueenSewWhatsappBoty",
     "website":   "https://t.me/RavinduManoj",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
@@ -16,7 +16,7 @@
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 94xxxxxxxx (USA number +94)",
             "required": false
         },
-        "LANGUAGE": {
+        "LANGUAGE": { 
             "description": "Bot language.English => en, භාශාව තේරීම සදහා",
             "required": true,
             "value": "en"
